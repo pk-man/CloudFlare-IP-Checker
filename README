@@ -1,5 +1,4 @@
 Created this simple python script to easily check if an IP is in CloudFlare's public IP ranges.
-Feel free to make this a better script :)
 
 Changes list:
 added IPv6 support
